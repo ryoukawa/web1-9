@@ -9,6 +9,14 @@
 body{
   background-image:url(/img/mark11.jpg),url(/img/IMG_0652.jpg);
   background-repeat:no-repeat,no-repeat;
+  background-size:5% 5%, cover;
+  background-color:lightgray;
+  margin:5px;
+}
+body{
+  background-image:url(/img/mark11.jpg),url(/img/IMG_0652.jpg);
+  background-repeat:no-repeat,no-repeat;
+  background-size:100px 100px, contain;
   background-color:lightgray;
   margin:5px;
 }
