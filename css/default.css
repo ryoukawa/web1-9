@@ -90,10 +90,10 @@ body{
     transform:rotate(30deg);
 }
 
-p.transition{
+.transition{
   margin:10px;
 }
-p.transition{
+.transition{
     display:block;
   margin:5px;
   padding: 10px;
@@ -107,7 +107,7 @@ p.transition{
   background-color: blue;
   transition:1s;
 }
-p.transition:hover{
+.transition:hover{
   background-color:gold;
   text-decoration:none;
   padding:5px;
