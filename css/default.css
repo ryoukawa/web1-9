@@ -77,5 +77,16 @@ body{
     #63B3D2 50%,
     #BFE5F2);
 }
+.transform{
+  font-size:10px;
+  width: 100px;
+  text-align:center;
+  padding:45px 0px;
+  margin:20px;
+  background-color:mediumspringgreen;
+}
   
+  .rotate{
+    transform:rotate(30deg);
+}
          
