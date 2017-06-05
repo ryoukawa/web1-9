@@ -7,7 +7,7 @@
 }
 
 body{
-  background-image:url(/img/mark11.jpg),url(/img/IMG_0652.jpg);
+  background-image:url(../mark11.jpg),url(../IMG_0652.jpg);
   background-repeat:no-repeat,no-repeat;
   background-size:5% 5%, cover;
   background-color:lightgray;
